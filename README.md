@@ -1,12 +1,15 @@
-### Hi there, I'm Aditya 👋
+Aditya Pukale
+ICT Systems & Support Technician | Developer | Lifelong Learner
 
-## I'm a Learner and Developer
+I am an ICT Systems and Support Technician at Fahan School, where I specialize in maintaining and optimizing IT infrastructure to ensure seamless operations. With a Master of Information Technology and Systems from the University of Tasmania, I have a strong foundation in IT, programming, and cybersecurity.
 
-- 👨‍💻 I’m currently learning python and everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 💻 I'm looking for help with industrial development process experience and building new projects
-- 🥅 2021 Goals: To complete lots of projects and to achieve proficency in programming || Gain industrail experience in Cybersecurity
-- ⚡ Fun fact: I love to solve problems also I believe in work hard and play guitar 
+My passion for technology extends beyond my professional role—I am an avid learner and developer, continuously exploring Python, web development, and industrial software solutions. I enjoy collaborating with other developers, solving complex technical problems, and working on innovative projects that enhance user experiences.
+
+🔹 Key Interests: IT Support, Networking, Cybersecurity, Python Development, Web Technologies
+🔹 Tech Stack: Python, JavaScript, HTML, CSS, MySQL, Git, VS Code, Bash
+🔹 Fun Fact: I believe in working hard, staying curious, and playing the guitar in my free time!
+
+Let’s connect and innovate together! 🚀
 
 ### Connect with me:
 
